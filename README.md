@@ -15,7 +15,7 @@
 
 ## 📌 Project Overview
 
-End-to-end machine learning solution untuk prediksi **customer churn** di industri telekomunikasi, dengan integrasi **Network KQI (Key Quality Indicators)**. Project ini dirancang untuk memenuhi standar kompetensi **Senior Data Science/AI/ML** di Indosat.
+End-to-end machine learning solution untuk prediksi **customer churn** di industri telekomunikasi, dengan integrasi **Network KQI (Key Quality Indicators)**. Project ini dirancang untuk memenuhi standar kompetensi **Senior Data Science/AI/ML** .
 
 | **Aspek** | **Detail** |
 |-----------|------------|
@@ -279,7 +279,7 @@ gcloud config set project telco-portfolio
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burhanudinera2018/telco-ai-portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burhanudinera2018@gmail.com)
 
-**Target Position:** Senior Data Science / AI/ML - Indosat Ooredoo Hutchison
+**Target Position:** Senior Data Science / AI/ML 
 
 **Core Competencies:**
 - Machine Learning & MLOps
@@ -292,6 +292,6 @@ gcloud config set project telco-portfolio
 
 ## 📄 License
 
-This project is for portfolio purposes for the **Senior Data Science/AI/ML position at Indosat Ooredoo Hutchison**.
+This project is for portfolio purposes for the **Senior Data Science/AI/ML**.
 
 ---
