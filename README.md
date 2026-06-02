@@ -9,7 +9,7 @@
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white)](https://lookerstudio.google.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-> **Target Position:** Senior Data Science / AI/ML - Indosat Ooredoo Hutchison
+> **Target Position:** Senior Data Science / AI/ML 
 
 ---
 
