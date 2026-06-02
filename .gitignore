@@ -1,0 +1,28 @@
+# Environment
+venv_telco/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# GCP credentials
+*.json
+*.key
+service-account-key.json
+
+# Model & data
+*.pkl
+*.csv
+*.parquet
+data/
+
+# Logs
+logs/
+*.log
