@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Telco Customer Churn Prediction - AI/ML Portfolio
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
@@ -273,11 +273,11 @@ gcloud config set project telco-portfolio
 
 ## 📝 About the Author
 
-**Burhanudin**
+**Burhanudin Badiuzaman**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burhanudin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burhanudin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burhanudin@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanudin-badiuzaman4a9204161/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burhanudinera2018/telco-ai-portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burhanudinera2018@gmail.com)
 
 **Target Position:** Senior Data Science / AI/ML - Indosat Ooredoo Hutchison
 
