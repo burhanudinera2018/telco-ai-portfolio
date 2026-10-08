@@ -247,6 +247,15 @@ gcloud config set project telco-portfolio
 | 5 | `06_looker_studio_dashboard.ipynb` | Dashboard guide |
 
 ---
+## Serving & Deployment
+Model dikemas sebagai container **FastAPI + Uvicorn** yang mengikuti kontrak container kustom
+Vertex AI (`AIP_HTTP_PORT`, `AIP_HEALTH_ROUTE=/health`, `AIP_PREDICT_ROUTE=/predict`),
+lalu didorong ke Artifact Registry dan di-deploy sebagai endpoint Vertex AI.
+
+    docker build -t churn-model .
+    docker run -p 8080:8080 churn-model
+    curl http://localhost:8080/health
+---
 
 ## 📸 Portfolio Screenshots
 
